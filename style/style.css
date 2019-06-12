@@ -74,6 +74,8 @@ table {
         border: solid #5a5656 2px;
         border-radius: 15px;
         height: 35px; }
+        .main-page-header .click-on-div .button1-a .button1:hover {
+          background-color: #c3c3c3; }
         .main-page-header .click-on-div .button1-a .button1 .key-symbol {
           width: 10%; }
         .main-page-header .click-on-div .button1-a .button1 .change-password {
@@ -90,6 +92,8 @@ table {
         border: solid #5a5656 2px;
         border-radius: 15px;
         height: 35px; }
+        .main-page-header .click-on-div .button2-a .button2:hover {
+          background-color: #c3c3c3; }
         .main-page-header .click-on-div .button2-a .button2 .door-symbol {
           width: 10%; }
         .main-page-header .click-on-div .button2-a .button2 .log-out {
@@ -115,6 +119,10 @@ table {
         display: flex;
         justify-content: center;
         align-items: center; }
+        .main-content-div .box-left .navigation .nav-li:hover .nav-li-a {
+          color: #fff; }
+        .main-content-div .box-left .navigation .nav-li:hover {
+          background-color: #c3c3c3; }
         .main-content-div .box-left .navigation .nav-li .nav-li-a {
           text-decoration: none;
           color: #393a42; }
@@ -142,4 +150,5 @@ table {
           height: 30px;
           font-size: 15px;
           padding-left: 5px;
-          margin-top: 3px; }
+          margin-top: 3px;
+          outline: none; }
