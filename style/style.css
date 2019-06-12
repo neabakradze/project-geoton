@@ -151,4 +151,5 @@ table {
           font-size: 15px;
           padding-left: 5px;
           margin-top: 3px;
-          outline: none; }
+          outline: none;
+          border: solid 1px #474848; }
