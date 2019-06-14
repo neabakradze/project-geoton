@@ -65,8 +65,7 @@ table {
     margin-left: 25px; }
     .main-page-header .click-on-div .button1-a {
       width: 50%;
-      color: black;
-      text-decoration: none; }
+      color: #913737; }
       .main-page-header .click-on-div .button1-a .button1 {
         display: flex;
         justify-content: center;
